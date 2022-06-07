@@ -131,8 +131,8 @@ img {
   line-height: 1.8;
   width: 200px;
 }
-.button-colour:hover{
-background-color: #188ce8;
+.button-colour:hover {
+  background-color: #188ce8;
 }
 .section-solution .container {
   display: flex;
@@ -363,7 +363,7 @@ background-color: #188ce8;
   margin-left: auto;
 }
 .active:hover,
-.active:focus{
+.active:focus {
   color: white;
   background-color: var(--beside-color);
 }
@@ -420,8 +420,8 @@ background-color: #188ce8;
   width: 370px;
 }
 .images-list-photo:hover,
-.images-list-photo:focus{
-   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
+.images-list-photo:focus {
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
     1px 4px 6px rgba(0, 0, 0, 0.16);
 }
 
@@ -473,8 +473,6 @@ background-color: #188ce8;
   justify-content: center;
   align-items: center;
   margin-left: 30px;
-  
-  
 }
 .icon-logo > a:hover,
 .icon-logo > a:focus {
@@ -498,31 +496,25 @@ background-color: #188ce8;
   height: 44px;
   align-items: center;
   justify-content: center;
-  
 }
 
 .social-media {
   display: flex;
   justify-content: space-around;
-padding-bottom: 30px;
-  
-
-  
+  padding-bottom: 30px;
 }
 .social-icon {
   width: 20px;
   height: 20px;
   color: currentColor;
   display: flex;
-  
 }
 
 .social-media-list {
   list-style: none;
   margin-right: 10px;
- 
 }
-.social-media-list:last-child{
+.social-media-list:last-child {
   margin-right: 0;
 }
 .social-media_link {
@@ -533,24 +525,22 @@ padding-bottom: 30px;
   align-items: center;
   justify-content: center;
   color: #afb1b8;
- 
 }
 .social-icon:hover,
 .social-icon:focus {
-  background-color:#2196f3;
+  background-color: #2196f3;
   border-radius: 50px;
   fill: white;
   width: 44px;
   height: 44px;
 }
-.footer-social   {
+.footer-social {
   display: flex;
   flex-direction: column;
   padding-left: 531px;
   padding-right: auto;
   padding-top: auto;
   padding-bottom: 100px;
-   
 }
 
 .connect {
