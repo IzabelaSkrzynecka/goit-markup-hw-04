@@ -204,6 +204,9 @@ img {
   color: var(--beside-color);
 }
 .section-solution {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   background-color: black;
   flex-grow: 1;
   height: 600px;
@@ -215,7 +218,7 @@ img {
     url("../images/background-img.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  opacity: 80px;
+ 
 }
 
 .solution {
@@ -227,7 +230,7 @@ img {
   text-align: center;
   max-width: 696px;
   padding-bottom: 30px;
-  width: 1600px;
+  
 }
 
 .heading {
