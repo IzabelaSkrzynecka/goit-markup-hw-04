@@ -148,6 +148,7 @@ img {
   flex-direction: column;
   min-width: auto;
   height: 100%;
+  margin:0 auto;
 }
 .button {
   background-color: var(--beside-color);
@@ -256,6 +257,12 @@ img {
 }
 .section-lorem-ipsum {
   padding-bottom: 0;
+  display: flex;
+  flex-direction: column;
+}
+.service{
+ display: flex;
+  flex-direction: column; 
 }
 .header {
   font-style: 700;
