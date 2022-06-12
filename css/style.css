@@ -77,6 +77,8 @@ img {
   margin-left: auto;
   justify-content: center;
   list-style: none;
+  margin-left: -15px;
+   margin-right: -15px
 }
 .contact-tel {
   padding-left: 10px;
@@ -251,6 +253,9 @@ img {
   line-height: 1.7;
   color: var(--brand-color);
   display: flex;
+  
+}
+.ipsum{
   padding-right: 30px;
 }
 .section-lorem-ipsum {
@@ -486,7 +491,7 @@ img {
   border-radius: 4px;
   justify-content: center;
   align-items: center;
-  margin-right: 30px;
+ 
 }
 .icon-logo > a:hover,
 .icon-logo > a:focus {
@@ -500,8 +505,12 @@ img {
 .icon-logo {
   
   color: #afb1b8;
+  margin-left:15px; 
+  margin-right: 15px
 }
-
+.icon-logo-color{
+color: #afb1b8;
+}
 
 
 .icon-logo-box {
