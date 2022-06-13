@@ -78,7 +78,7 @@ img {
   justify-content: center;
   list-style: none;
   margin-left: -15px;
-   margin-right: -15px
+  margin-right: -15px;
 }
 .contact-tel {
   padding-left: 10px;
@@ -253,16 +253,15 @@ img {
   line-height: 1.7;
   color: var(--brand-color);
   display: flex;
-  
 }
-.ipsum{
+.ipsum {
   padding-right: 30px;
 }
 .section-lorem-ipsum {
   padding-bottom: 0;
   display: flex;
   flex-direction: column;
-  margin:0 auto;
+  margin: 0 auto;
 }
 .service {
   display: flex;
@@ -491,7 +490,6 @@ img {
   border-radius: 4px;
   justify-content: center;
   align-items: center;
- 
 }
 .icon-logo > a:hover,
 .icon-logo > a:focus {
@@ -503,15 +501,13 @@ img {
   width: 106px;
 }
 .icon-logo {
-  
   color: #afb1b8;
-  margin-left:15px; 
-  margin-right: 15px
+  margin-left: 15px;
+  margin-right: 15px;
 }
-.icon-logo-color{
-color: #afb1b8;
+.icon-logo-color {
+  color: #afb1b8;
 }
-
 
 .icon-logo-box {
   display: flex;
